@@ -1,0 +1,16 @@
+{
+  "name": "part-1-setting-up",
+  "version": "1.0.0",
+  "description": "1st part of the MEAN tutorial",
+  "main": "index.js",
+  "keywords": [
+    "MEAN",
+    "NodeJS"
+  ],
+  "author": "Pavel Gerasimov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "moment": "^2.18.1"
+  }
+}
